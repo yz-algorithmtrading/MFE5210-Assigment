@@ -1,0 +1,504 @@
+2024-05-19 17:14:39.034 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:A  params:180  sharpe:0.2658341313168095
+2024-05-19 17:14:39.425 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:A  params:(60, 240)  sharpe:0.3461868965520746
+2024-05-19 17:14:39.698 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:A  params:180  sharpe:0.0876925022908726
+2024-05-19 17:14:39.958 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:AG  params:60  sharpe:0.23583126381814276
+2024-05-19 17:14:40.137 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:AG  params:(20, 60)  sharpe:0.3059122885356969
+2024-05-19 17:14:40.376 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:AG  params:1  sharpe:0.752743643900265
+2024-05-19 17:14:40.655 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:AL  params:20  sharpe:0.639818855068668
+2024-05-19 17:14:40.863 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:AL  params:(5, 20)  sharpe:0.5384343877395327
+2024-05-19 17:14:41.147 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:AL  params:180  sharpe:0.05633530506291536
+2024-05-19 17:14:41.406 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:AP  params:20  sharpe:1.051506479851902
+2024-05-19 17:14:41.620 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:AP  params:(20, 60)  sharpe:0.5924111984533212
+2024-05-19 17:14:41.899 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:AP  params:240  sharpe:-0.1874391738322136
+2024-05-19 17:14:42.203 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:AU  params:240  sharpe:0.25962170901620113
+2024-05-19 17:14:42.421 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:AU  params:(20, 60)  sharpe:0.412096956595588
+2024-05-19 17:14:42.713 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:AU  params:60  sharpe:0.5632108360497173
+2024-05-19 17:14:43.002 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:B  params:180  sharpe:0.19359433882402635
+2024-05-19 17:14:43.223 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:B  params:(5, 20)  sharpe:0.20259216234033964
+2024-05-19 17:14:43.481 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:B  params:20  sharpe:0.08336338328594005
+2024-05-19 17:14:43.730 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:BB  params:20  sharpe:1.3338655783651308
+2024-05-19 17:14:43.914 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:BB  params:(60, 240)  sharpe:1.077222945493478
+2024-05-19 17:14:44.184 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:BB  params:60  sharpe:1.2431566697891068
+2024-05-19 17:14:44.423 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:BC  params:60  sharpe:0.14076367736246767
+2024-05-19 17:14:44.629 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:BC  params:(20, 60)  sharpe:-0.12346263396776402
+2024-05-19 17:14:44.848 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:BC  params:60  sharpe:-0.3491552433510824
+2024-05-19 17:14:45.121 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:BU  params:240  sharpe:0.3896750132353435
+2024-05-19 17:14:45.328 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:BU  params:(5, 20)  sharpe:0.4343802605826015
+2024-05-19 17:14:45.580 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:BU  params:20  sharpe:-0.04316627230387286
+2024-05-19 17:14:45.846 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:C  params:20  sharpe:0.6609217569294776
+2024-05-19 17:14:46.064 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:C  params:(5, 20)  sharpe:0.6209845464930875
+2024-05-19 17:14:46.418 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:C  params:20  sharpe:0.37237635052459395
+2024-05-19 17:14:46.870 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:CF  params:60  sharpe:0.6288219151560658
+2024-05-19 17:14:47.200 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:CF  params:(5, 20)  sharpe:0.7593261930830262
+2024-05-19 17:14:47.509 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:CF  params:240  sharpe:0.19551445497438824
+2024-05-19 17:14:47.845 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:CJ  params:240  sharpe:0.5823172377967345
+2024-05-19 17:14:48.054 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:CJ  params:(20, 60)  sharpe:0.4498721817350256
+2024-05-19 17:14:48.347 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:CJ  params:60  sharpe:0.5179199646408095
+2024-05-19 17:14:48.613 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:CS  params:60  sharpe:-0.08021367080111597
+2024-05-19 17:14:48.794 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:CS  params:(5, 20)  sharpe:0.05577652711899645
+2024-05-19 17:14:49.133 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:CS  params:180  sharpe:0.18889116589146293
+2024-05-19 17:14:49.862 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:CU  params:20  sharpe:0.6504139362134138
+2024-05-19 17:14:50.110 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:CU  params:(20, 60)  sharpe:0.5388985585094699
+2024-05-19 17:14:50.422 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:CU  params:60  sharpe:0.19052847096021155
+2024-05-19 17:14:50.668 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:CY  params:20  sharpe:0.37350313309033023
+2024-05-19 17:14:50.921 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:CY  params:(5, 20)  sharpe:0.40623288577284905
+2024-05-19 17:14:51.622 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:CY  params:60  sharpe:0.1928569763425764
+2024-05-19 17:14:52.202 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:EB  params:20  sharpe:0.05550143524237671
+2024-05-19 17:14:52.511 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:EB  params:(5, 20)  sharpe:0.45771768223897785
+2024-05-19 17:14:52.856 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:EB  params:240  sharpe:0.6389270408325145
+2024-05-19 17:14:53.102 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:EG  params:180  sharpe:0.09148340442138743
+2024-05-19 17:14:53.274 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:EG  params:(5, 20)  sharpe:0.28303609496981896
+2024-05-19 17:14:53.521 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:EG  params:20  sharpe:0.5682797436561232
+2024-05-19 17:14:53.783 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:FB  params:240  sharpe:1.847395200801224
+2024-05-19 17:14:53.974 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:FB  params:(60, 240)  sharpe:1.617215621635964
+2024-05-19 17:14:54.229 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:FB  params:60  sharpe:0.5196346441574948
+2024-05-19 17:14:54.606 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:FG  params:20  sharpe:0.29794964044205335
+2024-05-19 17:14:54.882 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:FG  params:(5, 20)  sharpe:0.2220425262623538
+2024-05-19 17:14:55.155 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:FG  params:180  sharpe:0.5773807722137663
+2024-05-19 17:14:55.547 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:FU  params:20  sharpe:0.16233129278645464
+2024-05-19 17:14:55.754 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:FU  params:(5, 20)  sharpe:0.39873566724583526
+2024-05-19 17:14:56.012 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:FU  params:240  sharpe:0.24270192818428568
+2024-05-19 17:14:56.271 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:HC  params:60  sharpe:0.9221388681074809
+2024-05-19 17:14:56.496 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:HC  params:(5, 20)  sharpe:0.5425569817328609
+2024-05-19 17:14:56.833 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:HC  params:60  sharpe:0.9295194437047243
+2024-05-19 17:14:57.190 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:I  params:240  sharpe:0.39716673809352254
+2024-05-19 17:14:57.407 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:I  params:(20, 60)  sharpe:0.47529386962184367
+2024-05-19 17:14:57.669 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:I  params:60  sharpe:0.15776287843161024
+2024-05-19 17:14:57.985 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:IC  params:20  sharpe:0.34758711352000987
+2024-05-19 17:14:58.160 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:IC  params:(60, 240)  sharpe:0.21530750978989574
+2024-05-19 17:14:58.393 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:IC  params:60  sharpe:0.5189381608898862
+2024-05-19 17:14:58.672 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:IF  params:240  sharpe:0.3568720614572763
+2024-05-19 17:14:58.913 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:IF  params:(5, 20)  sharpe:0.12052182870835376
+2024-05-19 17:14:59.315 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:IF  params:240  sharpe:0.4192695631427219
+2024-05-19 17:14:59.563 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:IH  params:180  sharpe:0.13462344690470954
+2024-05-19 17:14:59.742 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:IH  params:(60, 240)  sharpe:0.25122166995793804
+2024-05-19 17:15:00.095 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:IH  params:240  sharpe:0.21815151652538464
+2024-05-19 17:15:00.449 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:IM  params:20  sharpe:-0.048577194514686145
+2024-05-19 17:15:00.633 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:IM  params:(60, 240)  sharpe:-0.02179141446249803
+2024-05-19 17:15:00.902 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:IM  params:1  sharpe:2.323790373219554
+2024-05-19 17:15:01.302 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:J  params:240  sharpe:0.6566983875085971
+2024-05-19 17:15:01.515 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:J  params:(60, 240)  sharpe:0.6379036637164627
+2024-05-19 17:15:01.783 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:J  params:240  sharpe:0.32500175481789667
+2024-05-19 17:15:02.111 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:JD  params:60  sharpe:-0.0588588533965071
+2024-05-19 17:15:02.424 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:JD  params:(5, 20)  sharpe:0.12637201394625122
+2024-05-19 17:15:02.729 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:JD  params:1  sharpe:0.1462592389704966
+2024-05-19 17:15:02.984 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:JM  params:20  sharpe:0.3873372052065438
+2024-05-19 17:15:03.206 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:JM  params:(5, 20)  sharpe:0.3588544709084095
+2024-05-19 17:15:03.630 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:JM  params:240  sharpe:0.6778164971963504
+2024-05-19 17:15:04.106 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:JR  params:240  sharpe:0.32154508648290475
+2024-05-19 17:15:04.360 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:JR  params:(60, 240)  sharpe:0.3965305085845488
+2024-05-19 17:15:04.686 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:JR  params:20  sharpe:0.5198021912958298
+2024-05-19 17:15:05.006 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:L  params:20  sharpe:0.17003924592657865
+2024-05-19 17:15:05.246 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:L  params:(20, 60)  sharpe:0.22764133701438083
+2024-05-19 17:15:05.575 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:L  params:180  sharpe:0.2299345081431818
+2024-05-19 17:15:05.836 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:LH  params:20  sharpe:1.2098187910474505
+2024-05-19 17:15:06.026 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:LH  params:(5, 20)  sharpe:1.4184505661298952
+2024-05-19 17:15:06.365 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:LH  params:1  sharpe:0.9061550502023329
+2024-05-19 17:15:06.606 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:LR  params:20  sharpe:0.23719673283424614
+2024-05-19 17:15:06.783 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:LR  params:(5, 20)  sharpe:0.3175015506507876
+2024-05-19 17:15:07.017 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:LR  params:1  sharpe:0.1007721820965489
+2024-05-19 17:15:07.263 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:LU  params:180  sharpe:0.7725431281962604
+2024-05-19 17:15:07.545 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:LU  params:(60, 240)  sharpe:0.5192644545311668
+2024-05-19 17:15:07.877 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:LU  params:20  sharpe:-0.28211821252642133
+2024-05-19 17:15:08.169 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:M  params:20  sharpe:0.3018207767402985
+2024-05-19 17:15:08.361 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:M  params:(5, 20)  sharpe:0.5361448626470903
+2024-05-19 17:15:08.618 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:M  params:240  sharpe:0.18399074045777233
+2024-05-19 17:15:08.866 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:MA  params:20  sharpe:0.14607617259559497
+2024-05-19 17:15:09.045 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:MA  params:(5, 20)  sharpe:0.44531333904361464
+2024-05-19 17:15:09.290 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:MA  params:240  sharpe:-0.1531465205263853
+2024-05-19 17:15:09.552 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:NI  params:60  sharpe:0.4126429424595765
+2024-05-19 17:15:09.753 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:NI  params:(20, 60)  sharpe:0.5478473403145969
+2024-05-19 17:15:10.019 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:NI  params:180  sharpe:0.34647841691376213
+2024-05-19 17:15:10.278 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:NR  params:60  sharpe:-0.27158983652537283
+2024-05-19 17:15:10.456 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:NR  params:(60, 240)  sharpe:-0.012048058197180848
+2024-05-19 17:15:10.689 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:NR  params:240  sharpe:-0.050877410233104346
+2024-05-19 17:15:11.045 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:OI  params:20  sharpe:0.40474377125809247
+2024-05-19 17:15:11.270 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:OI  params:(20, 60)  sharpe:0.4656208771308878
+2024-05-19 17:15:11.523 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:OI  params:1  sharpe:0.04646112074693414
+2024-05-19 17:15:11.792 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:P  params:60  sharpe:0.6467369023288586
+2024-05-19 17:15:11.974 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:P  params:(5, 20)  sharpe:0.5490909307803694
+2024-05-19 17:15:12.221 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:P  params:240  sharpe:0.00023333627534576583
+2024-05-19 17:15:12.467 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:PB  params:240  sharpe:0.05002071223625316
+2024-05-19 17:15:12.647 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:PB  params:(60, 240)  sharpe:0.12636944894401375
+2024-05-19 17:15:12.886 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:PB  params:1  sharpe:0.23696837656938163
+2024-05-19 17:15:13.108 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:PF  params:20  sharpe:0.07842528486868124
+2024-05-19 17:15:13.290 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:PF  params:(5, 20)  sharpe:-0.4930370992850549
+2024-05-19 17:15:13.535 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:PF  params:240  sharpe:1.0054050858846002
+2024-05-19 17:15:13.796 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:PG  params:20  sharpe:0.43269068235569996
+2024-05-19 17:15:13.991 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:PG  params:(60, 240)  sharpe:0.006202871605921547
+2024-05-19 17:15:14.242 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:PG  params:20  sharpe:0.48597457166947705
+2024-05-19 17:15:14.478 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:PK  params:20  sharpe:0.16020605426567203
+2024-05-19 17:15:14.641 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:PK  params:(5, 20)  sharpe:0.2540742762554905
+2024-05-19 17:15:14.994 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:PK  params:240  sharpe:-0.17481073659468396
+2024-05-19 17:15:15.229 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:PM  params:240  sharpe:-0.32042252193061843
+2024-05-19 17:15:15.405 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:PM  params:(20, 60)  sharpe:-0.20155952918874911
+2024-05-19 17:15:15.669 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:PM  params:1  sharpe:0.3190284496731193
+2024-05-19 17:15:15.941 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:PP  params:60  sharpe:0.3474128294364906
+2024-05-19 17:15:16.136 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:PP  params:(5, 20)  sharpe:0.12456293285961456
+2024-05-19 17:15:16.378 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:PP  params:20  sharpe:0.3238212482721711
+2024-05-19 17:15:16.623 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:RB  params:240  sharpe:0.6016382709374432
+2024-05-19 17:15:16.807 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:RB  params:(5, 20)  sharpe:0.686210927733953
+2024-05-19 17:15:17.049 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:RB  params:60  sharpe:0.28418624259497316
+2024-05-19 17:15:17.293 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:RI  params:180  sharpe:0.10649741429689416
+2024-05-19 17:15:17.478 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:RI  params:(5, 20)  sharpe:0.13328975277733568
+2024-05-19 17:15:17.720 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:RI  params:180  sharpe:0.029394288252245607
+2024-05-19 17:15:17.969 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:RM  params:180  sharpe:0.010103736216254041
+2024-05-19 17:15:18.179 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:RM  params:(20, 60)  sharpe:-0.022220522268832973
+2024-05-19 17:15:18.459 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:RM  params:60  sharpe:0.44450981317976934
+2024-05-19 17:15:18.714 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:RR  params:240  sharpe:1.3057942263615872
+2024-05-19 17:15:18.885 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:RR  params:(60, 240)  sharpe:1.2336611350688576
+2024-05-19 17:15:19.103 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:RR  params:60  sharpe:0.48901779569153453
+2024-05-19 17:15:19.337 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:RS  params:240  sharpe:0.3595631249892668
+2024-05-19 17:15:19.515 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:RS  params:(60, 240)  sharpe:0.4640604576094239
+2024-05-19 17:15:19.744 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:RS  params:20  sharpe:-0.022054914892782454
+2024-05-19 17:15:20.044 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:RU  params:20  sharpe:0.6954443637695922
+2024-05-19 17:15:20.249 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:RU  params:(5, 20)  sharpe:0.5675776054182181
+2024-05-19 17:15:20.545 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:RU  params:240  sharpe:0.2781988209745005
+2024-05-19 17:15:20.779 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:SA  params:20  sharpe:0.28579555138226836
+2024-05-19 17:15:20.952 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:SA  params:(5, 20)  sharpe:0.6073789377907556
+2024-05-19 17:15:21.177 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:SA  params:240  sharpe:0.4672465886926804
+2024-05-19 17:15:21.406 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:SC  params:180  sharpe:0.43127904439676207
+2024-05-19 17:15:21.579 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:SC  params:(5, 20)  sharpe:0.18429248520142333
+2024-05-19 17:15:21.813 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:SC  params:60  sharpe:0.09275327368307254
+2024-05-19 17:15:22.069 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:SF  params:20  sharpe:0.1859746841597502
+2024-05-19 17:15:22.244 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:SF  params:(5, 20)  sharpe:0.3424961534383269
+2024-05-19 17:15:22.494 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:SF  params:180  sharpe:0.9413009881373731
+2024-05-19 17:15:22.728 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:SI  params:60  sharpe:3.116680717787549
+2024-05-19 17:15:22.890 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:SI  params:(20, 60)  sharpe:1.9294759169904079
+2024-05-19 17:15:23.119 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:SI  params:1  sharpe:0.14771107421969668
+2024-05-19 17:15:23.362 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:SM  params:180  sharpe:0.3252523383200791
+2024-05-19 17:15:23.541 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:SM  params:(60, 240)  sharpe:0.3470131240689332
+2024-05-19 17:15:23.797 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:SM  params:240  sharpe:1.0804555023452886
+2024-05-19 17:15:24.065 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:SN  params:20  sharpe:0.6015337994042721
+2024-05-19 17:15:24.296 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:SN  params:(20, 60)  sharpe:1.0654396492622473
+2024-05-19 17:15:24.560 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:SN  params:240  sharpe:0.9233588936756603
+2024-05-19 17:15:24.992 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:SP  params:240  sharpe:0.6969102826614326
+2024-05-19 17:15:25.159 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:SP  params:(5, 20)  sharpe:0.4966543552536777
+2024-05-19 17:15:25.383 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:SP  params:240  sharpe:1.3684233677268944
+2024-05-19 17:15:25.655 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:SR  params:20  sharpe:0.35697830909247663
+2024-05-19 17:15:25.936 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:SR  params:(60, 240)  sharpe:0.24080471157499897
+2024-05-19 17:15:26.302 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:SR  params:180  sharpe:0.25801412847193816
+2024-05-19 17:15:26.556 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:SS  params:20  sharpe:0.5990290622607887
+2024-05-19 17:15:26.726 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:SS  params:(20, 60)  sharpe:0.4295832542591156
+2024-05-19 17:15:26.943 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:SS  params:1  sharpe:0.3603294811983734
+2024-05-19 17:15:27.167 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:T  params:60  sharpe:0.45075849591041206
+2024-05-19 17:15:27.350 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:T  params:(20, 60)  sharpe:0.3268753447445093
+2024-05-19 17:15:27.612 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:T  params:180  sharpe:0.3580056707073398
+2024-05-19 17:15:27.949 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:TA  params:20  sharpe:0.9233649054022253
+2024-05-19 17:15:28.309 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:TA  params:(5, 20)  sharpe:0.6769050456806573
+2024-05-19 17:15:28.782 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:TA  params:180  sharpe:0.2856030866251715
+2024-05-19 17:15:29.130 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:TF  params:20  sharpe:0.3249668064336628
+2024-05-19 17:15:29.453 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:TF  params:(20, 60)  sharpe:0.4127813848349846
+2024-05-19 17:15:29.892 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:TF  params:20  sharpe:0.38460780681690276
+2024-05-19 17:15:30.319 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:TS  params:180  sharpe:0.7760056343538202
+2024-05-19 17:15:30.591 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:TS  params:(5, 20)  sharpe:0.8023843405237508
+2024-05-19 17:15:30.844 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:TS  params:180  sharpe:0.9185140029010314
+2024-05-19 17:15:31.098 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:UR  params:240  sharpe:0.6553315022896904
+2024-05-19 17:15:31.295 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:UR  params:(5, 20)  sharpe:0.30513850940903353
+2024-05-19 17:15:31.536 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:UR  params:240  sharpe:0.9426947219081586
+2024-05-19 17:15:31.782 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:V  params:180  sharpe:0.3650156379558041
+2024-05-19 17:15:31.971 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:V  params:(20, 60)  sharpe:0.25451783992687665
+2024-05-19 17:15:32.246 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:V  params:60  sharpe:0.6096549096560682
+2024-05-19 17:15:32.627 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:WH  params:20  sharpe:0.17543892599248043
+2024-05-19 17:15:32.826 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:WH  params:(5, 20)  sharpe:0.09048798829304297
+2024-05-19 17:15:33.081 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:WH  params:20  sharpe:0.39476235802843446
+2024-05-19 17:15:33.327 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:WR  params:240  sharpe:0.5276169261993635
+2024-05-19 17:15:33.523 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:WR  params:(20, 60)  sharpe:0.3568890322900198
+2024-05-19 17:15:33.776 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:WR  params:60  sharpe:0.3601173974789306
+2024-05-19 17:15:34.050 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:Y  params:20  sharpe:0.5109528678953625
+2024-05-19 17:15:34.268 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:Y  params:(5, 20)  sharpe:0.3689139458411876
+2024-05-19 17:15:34.544 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:Y  params:240  sharpe:0.12448905586066308
+2024-05-19 17:15:34.826 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:ZC  params:240  sharpe:0.598122325428329
+2024-05-19 17:15:35.031 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:ZC  params:(60, 240)  sharpe:0.45471249749977605
+2024-05-19 17:15:35.278 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:ZC  params:240  sharpe:0.5734916579734602
+2024-05-19 17:15:35.532 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_mome  code:ZN  params:60  sharpe:0.18415127826830016
+2024-05-19 17:15:35.721 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:ts_rule_mome  code:ZN  params:(20, 60)  sharpe:0.37646991383858186
+2024-05-19 17:15:35.975 | INFO     | __main__:find_best_params_single_factor:71 - Single_Factor_InSample ————— factor_name:open_interest  code:ZN  params:180  sharpe:0.34641949889134344
+2024-05-19 17:15:36.319 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:A  factor_name:ts_mome params:180 sharpe: -2.1137072473098995
+2024-05-19 17:15:36.431 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:A  factor_name:ts_rule_mome params:(60, 240) sharpe: -0.3595994807272417
+2024-05-19 17:15:36.556 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:A  factor_name:open_interest params:180 sharpe: 1.8349306087313553
+2024-05-19 17:15:36.700 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:A  TermStructure  Sharpe:-0.1854543084056285
+2024-05-19 17:15:36.816 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:AG  factor_name:ts_mome params:60 sharpe: -0.6693768331006765
+2024-05-19 17:15:36.922 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:AG  factor_name:ts_rule_mome params:(20, 60) sharpe: -0.48046663854831173
+2024-05-19 17:15:37.039 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:AG  factor_name:open_interest params:1 sharpe: -0.03203232930523998
+2024-05-19 17:15:37.161 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:AG  TermStructure  Sharpe:0.4338226209368794
+2024-05-19 17:15:37.280 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:AL  factor_name:ts_mome params:20 sharpe: 0.018055844067830167
+2024-05-19 17:15:37.392 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:AL  factor_name:ts_rule_mome params:(5, 20) sharpe: 0.42917995619468335
+2024-05-19 17:15:37.495 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:AL  factor_name:open_interest params:180 sharpe: 0.40205525824534705
+2024-05-19 17:15:37.842 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:AL  TermStructure  Sharpe:-0.09935602846274445
+2024-05-19 17:15:37.941 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:AP  factor_name:ts_mome params:20 sharpe: -2.802714382665702
+2024-05-19 17:15:38.028 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:AP  factor_name:ts_rule_mome params:(20, 60) sharpe: -0.8790835039724119
+2024-05-19 17:15:38.117 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:AP  factor_name:open_interest params:240 sharpe: 0.4296078150199583
+2024-05-19 17:15:38.217 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:AP  TermStructure  Sharpe:-0.6372099252210267
+2024-05-19 17:15:38.314 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:AU  factor_name:ts_mome params:240 sharpe: 1.925184495102149
+2024-05-19 17:15:38.412 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:AU  factor_name:ts_rule_mome params:(20, 60) sharpe: 1.925184495102149
+2024-05-19 17:15:38.519 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:AU  factor_name:open_interest params:60 sharpe: 0.7830969977585448
+2024-05-19 17:15:38.679 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:AU  TermStructure  Sharpe:-0.2613999850430774
+2024-05-19 17:15:38.853 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:B  factor_name:ts_mome params:180 sharpe: -0.9826922907555794
+2024-05-19 17:15:38.981 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:B  factor_name:ts_rule_mome params:(5, 20) sharpe: 2.229617551734045
+2024-05-19 17:15:39.091 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:B  factor_name:open_interest params:20 sharpe: 1.4483264872142592
+2024-05-19 17:15:39.224 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:B  TermStructure  Sharpe:0.3031370540076682
+2024-05-19 17:15:39.328 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:BB  factor_name:ts_mome params:20 sharpe: nan
+2024-05-19 17:15:39.435 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:BB  factor_name:ts_rule_mome params:(60, 240) sharpe: -inf
+2024-05-19 17:15:39.532 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:BB  factor_name:open_interest params:60 sharpe: nan
+2024-05-19 17:15:39.644 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:BB  TermStructure  Sharpe:0.8146296979190173
+2024-05-19 17:15:39.746 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:BC  factor_name:ts_mome params:60 sharpe: 0.46281389695656056
+2024-05-19 17:15:39.843 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:BC  factor_name:ts_rule_mome params:(20, 60) sharpe: 0.999678668241722
+2024-05-19 17:15:39.931 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:BC  factor_name:open_interest params:60 sharpe: -0.3902818018666404
+2024-05-19 17:15:40.027 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:BC  TermStructure  Sharpe:0.7064391868105725
+2024-05-19 17:15:40.126 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:BU  factor_name:ts_mome params:240 sharpe: -0.09634755350840055
+2024-05-19 17:15:40.222 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:BU  factor_name:ts_rule_mome params:(5, 20) sharpe: -2.1451974297823737
+2024-05-19 17:15:40.325 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:BU  factor_name:open_interest params:20 sharpe: -0.17203031483310977
+2024-05-19 17:15:40.444 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:BU  TermStructure  Sharpe:-0.27667249008786504
+2024-05-19 17:15:40.552 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:C  factor_name:ts_mome params:20 sharpe: -0.4070310528852588
+2024-05-19 17:15:40.663 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:C  factor_name:ts_rule_mome params:(5, 20) sharpe: 0.08737677723065879
+2024-05-19 17:15:40.773 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:C  factor_name:open_interest params:20 sharpe: 0.8948438941105427
+2024-05-19 17:15:40.897 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:C  TermStructure  Sharpe:0.053300054641645035
+2024-05-19 17:15:41.013 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:CF  factor_name:ts_mome params:60 sharpe: 0.758563798047537
+2024-05-19 17:15:41.123 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:CF  factor_name:ts_rule_mome params:(5, 20) sharpe: -0.7627117717542811
+2024-05-19 17:15:41.230 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:CF  factor_name:open_interest params:240 sharpe: -0.32539483987201184
+2024-05-19 17:15:41.340 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:CF  TermStructure  Sharpe:0.06557242914934047
+2024-05-19 17:15:41.433 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:CJ  factor_name:ts_mome params:240 sharpe: -1.082007153978032
+2024-05-19 17:15:41.525 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:CJ  factor_name:ts_rule_mome params:(20, 60) sharpe: 0.14393172246216301
+2024-05-19 17:15:41.621 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:CJ  factor_name:open_interest params:60 sharpe: 2.1854694758103586
+2024-05-19 17:15:41.720 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:CJ  TermStructure  Sharpe:0.5375957654634296
+2024-05-19 17:15:41.813 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:CS  factor_name:ts_mome params:60 sharpe: -1.0904842446265954
+2024-05-19 17:15:41.909 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:CS  factor_name:ts_rule_mome params:(5, 20) sharpe: -2.5172952253520124
+2024-05-19 17:15:42.004 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:CS  factor_name:open_interest params:180 sharpe: -0.1209379546252281
+2024-05-19 17:15:42.112 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:CS  TermStructure  Sharpe:0.16823754780519445
+2024-05-19 17:15:42.223 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:CU  factor_name:ts_mome params:20 sharpe: 1.0613950591632288
+2024-05-19 17:15:42.326 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:CU  factor_name:ts_rule_mome params:(20, 60) sharpe: 1.005926159057654
+2024-05-19 17:15:42.444 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:CU  factor_name:open_interest params:60 sharpe: 1.0323352015352034
+2024-05-19 17:15:42.576 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:CU  TermStructure  Sharpe:0.1272052825098224
+2024-05-19 17:15:42.681 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:CY  factor_name:ts_mome params:20 sharpe: -0.9325120662706388
+2024-05-19 17:15:42.787 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:CY  factor_name:ts_rule_mome params:(5, 20) sharpe: -0.698481319648872
+2024-05-19 17:15:42.895 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:CY  factor_name:open_interest params:60 sharpe: 0.7584281893441494
+2024-05-19 17:15:42.994 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:CY  TermStructure  Sharpe:-0.7986032636073797
+2024-05-19 17:15:43.086 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:EB  factor_name:ts_mome params:20 sharpe: 0.31025695785349755
+2024-05-19 17:15:43.175 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:EB  factor_name:ts_rule_mome params:(5, 20) sharpe: 1.0246213371440545
+2024-05-19 17:15:43.264 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:EB  factor_name:open_interest params:240 sharpe: 1.7634953095064907
+2024-05-19 17:15:43.363 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:EB  TermStructure  Sharpe:-0.06225694064972889
+2024-05-19 17:15:43.450 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:EG  factor_name:ts_mome params:180 sharpe: -1.6794918360294935
+2024-05-19 17:15:43.538 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:EG  factor_name:ts_rule_mome params:(5, 20) sharpe: 0.731514152162121
+2024-05-19 17:15:43.630 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:EG  factor_name:open_interest params:20 sharpe: -0.2656620384944669
+2024-05-19 17:15:43.729 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:EG  TermStructure  Sharpe:-0.07237430045682515
+2024-05-19 17:15:43.817 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:FB  factor_name:ts_mome params:240 sharpe: 2.3613547552077083
+2024-05-19 17:15:43.906 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:FB  factor_name:ts_rule_mome params:(60, 240) sharpe: 0.4424080968322254
+2024-05-19 17:15:43.995 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:FB  factor_name:open_interest params:60 sharpe: 0.0592353655386089
+2024-05-19 17:15:44.109 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:FB  TermStructure  Sharpe:1.1068688188185605
+2024-05-19 17:15:44.230 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:FG  factor_name:ts_mome params:20 sharpe: -0.16881063335548666
+2024-05-19 17:15:44.638 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:FG  factor_name:ts_rule_mome params:(5, 20) sharpe: 0.49561858652510515
+2024-05-19 17:15:44.734 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:FG  factor_name:open_interest params:180 sharpe: 0.2558702226547263
+2024-05-19 17:15:44.851 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:FG  TermStructure  Sharpe:0.3990570730877562
+2024-05-19 17:15:44.955 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:FU  factor_name:ts_mome params:20 sharpe: 0.7537768066113641
+2024-05-19 17:15:45.053 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:FU  factor_name:ts_rule_mome params:(5, 20) sharpe: 1.081639752954968
+2024-05-19 17:15:45.155 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:FU  factor_name:open_interest params:240 sharpe: -1.4086742608943565
+2024-05-19 17:15:45.271 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:FU  TermStructure  Sharpe:0.17276859162383945
+2024-05-19 17:15:45.370 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:HC  factor_name:ts_mome params:60 sharpe: -0.7700738173716553
+2024-05-19 17:15:45.460 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:HC  factor_name:ts_rule_mome params:(5, 20) sharpe: -1.207310047748757
+2024-05-19 17:15:45.552 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:HC  factor_name:open_interest params:60 sharpe: 0.770008790582259
+2024-05-19 17:15:45.651 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:HC  TermStructure  Sharpe:0.5884632306196423
+2024-05-19 17:15:45.746 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:I  factor_name:ts_mome params:240 sharpe: 0.9407142418966871
+2024-05-19 17:15:45.834 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:I  factor_name:ts_rule_mome params:(20, 60) sharpe: 0.4025375520341618
+2024-05-19 17:15:45.928 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:I  factor_name:open_interest params:60 sharpe: -0.547708386987544
+2024-05-19 17:15:46.037 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:I  TermStructure  Sharpe:0.4756012275057216
+2024-05-19 17:15:46.137 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:IC  factor_name:ts_mome params:20 sharpe: 0.19107183780850917
+2024-05-19 17:15:46.230 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:IC  factor_name:ts_rule_mome params:(60, 240) sharpe: 0.13667862667278877
+2024-05-19 17:15:46.320 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:IC  factor_name:open_interest params:60 sharpe: 0.4021551445788112
+2024-05-19 17:15:46.425 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:IC  TermStructure  Sharpe:0.3367427990011787
+2024-05-19 17:15:46.548 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:IF  factor_name:ts_mome params:240 sharpe: 0.5156085873026831
+2024-05-19 17:15:46.675 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:IF  factor_name:ts_rule_mome params:(5, 20) sharpe: -1.5947903683580786
+2024-05-19 17:15:46.818 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:IF  factor_name:open_interest params:240 sharpe: 0.41968878117028224
+2024-05-19 17:15:46.982 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:IF  TermStructure  Sharpe:0.2818829156857548
+2024-05-19 17:15:47.092 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:IH  factor_name:ts_mome params:180 sharpe: 0.20769436169605549
+2024-05-19 17:15:47.200 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:IH  factor_name:ts_rule_mome params:(60, 240) sharpe: 0.4467455301350522
+2024-05-19 17:15:47.304 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:IH  factor_name:open_interest params:240 sharpe: -0.6734827512985858
+2024-05-19 17:15:47.409 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:IH  TermStructure  Sharpe:0.39481442691782925
+2024-05-19 17:15:47.503 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:IM  factor_name:ts_mome params:20 sharpe: 0.011208157592746707
+2024-05-19 17:15:47.593 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:IM  factor_name:ts_rule_mome params:(60, 240) sharpe: 0.4821761752864529
+2024-05-19 17:15:47.677 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:IM  factor_name:open_interest params:1 sharpe: 0.9806159473996626
+2024-05-19 17:15:47.770 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:IM  TermStructure  Sharpe:-0.10016293615057037
+2024-05-19 17:15:47.864 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:J  factor_name:ts_mome params:240 sharpe: -0.16598017269564755
+2024-05-19 17:15:47.957 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:J  factor_name:ts_rule_mome params:(60, 240) sharpe: -0.49219394830018554
+2024-05-19 17:15:48.048 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:J  factor_name:open_interest params:240 sharpe: 1.750378830171051
+2024-05-19 17:15:48.156 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:J  TermStructure  Sharpe:-0.04755968494998768
+2024-05-19 17:15:48.255 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:JD  factor_name:ts_mome params:60 sharpe: 0.1553789328549742
+2024-05-19 17:15:48.350 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:JD  factor_name:ts_rule_mome params:(5, 20) sharpe: -0.5145258601506573
+2024-05-19 17:15:48.442 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:JD  factor_name:open_interest params:1 sharpe: 1.1558114126896117
+2024-05-19 17:15:48.547 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:JD  TermStructure  Sharpe:0.4619371959304578
+2024-05-19 17:15:48.644 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:JM  factor_name:ts_mome params:20 sharpe: -0.48910188352856315
+2024-05-19 17:15:48.739 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:JM  factor_name:ts_rule_mome params:(5, 20) sharpe: 0.6553850981896786
+2024-05-19 17:15:48.834 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:JM  factor_name:open_interest params:240 sharpe: 0.8808978002326541
+2024-05-19 17:15:48.940 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:JM  TermStructure  Sharpe:0.5212831376270154
+2024-05-19 17:15:49.032 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:JR  factor_name:ts_mome params:240 sharpe: -inf
+2024-05-19 17:15:49.121 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:JR  factor_name:ts_rule_mome params:(60, 240) sharpe: -inf
+2024-05-19 17:15:49.208 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:JR  factor_name:open_interest params:20 sharpe: nan
+2024-05-19 17:15:49.305 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:JR  TermStructure  Sharpe:-0.024407242088872596
+2024-05-19 17:15:49.403 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:L  factor_name:ts_mome params:20 sharpe: -1.438886915586541
+2024-05-19 17:15:49.497 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:L  factor_name:ts_rule_mome params:(20, 60) sharpe: -0.6780446901991132
+2024-05-19 17:15:49.592 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:L  factor_name:open_interest params:180 sharpe: -0.621056279578298
+2024-05-19 17:15:49.700 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:L  TermStructure  Sharpe:0.5167554935345625
+2024-05-19 17:15:49.792 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:LH  factor_name:ts_mome params:20 sharpe: 1.0890883008607684
+2024-05-19 17:15:49.880 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:LH  factor_name:ts_rule_mome params:(5, 20) sharpe: 1.1334409725040433
+2024-05-19 17:15:49.967 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:LH  factor_name:open_interest params:1 sharpe: 0.8929610879457325
+2024-05-19 17:15:50.063 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:LH  TermStructure  Sharpe:0.22833587336690989
+2024-05-19 17:15:50.165 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:LR  factor_name:ts_mome params:20 sharpe: nan
+2024-05-19 17:15:50.252 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:LR  factor_name:ts_rule_mome params:(5, 20) sharpe: -inf
+2024-05-19 17:15:50.335 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:LR  factor_name:open_interest params:1 sharpe: nan
+2024-05-19 17:15:50.432 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:LR  TermStructure  Sharpe:-0.32266728510502674
+2024-05-19 17:15:50.527 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:LU  factor_name:ts_mome params:180 sharpe: 0.06856137512174133
+2024-05-19 17:15:50.614 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:LU  factor_name:ts_rule_mome params:(60, 240) sharpe: -0.36710367155226736
+2024-05-19 17:15:50.714 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:LU  factor_name:open_interest params:20 sharpe: 0.5545097725503624
+2024-05-19 17:15:50.815 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:LU  TermStructure  Sharpe:-0.9116136559973006
+2024-05-19 17:15:50.919 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:M  factor_name:ts_mome params:20 sharpe: 1.2864180299828352
+2024-05-19 17:15:51.028 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:M  factor_name:ts_rule_mome params:(5, 20) sharpe: 2.6789867919236072
+2024-05-19 17:15:51.142 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:M  factor_name:open_interest params:240 sharpe: 0.5551206843311569
+2024-05-19 17:15:51.256 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:M  TermStructure  Sharpe:0.3127664582446025
+2024-05-19 17:15:51.354 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:MA  factor_name:ts_mome params:20 sharpe: 0.7859991799988878
+2024-05-19 17:15:51.450 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:MA  factor_name:ts_rule_mome params:(5, 20) sharpe: 0.3508235212437205
+2024-05-19 17:15:51.546 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:MA  factor_name:open_interest params:240 sharpe: -0.11696893636251637
+2024-05-19 17:15:51.653 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:MA  TermStructure  Sharpe:0.08932923941103287
+2024-05-19 17:15:51.750 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:NI  factor_name:ts_mome params:60 sharpe: -0.20588487646614756
+2024-05-19 17:15:51.843 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:NI  factor_name:ts_rule_mome params:(20, 60) sharpe: -0.5142496980377772
+2024-05-19 17:15:51.935 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:NI  factor_name:open_interest params:180 sharpe: 1.3706580215292046
+2024-05-19 17:15:52.042 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:NI  TermStructure  Sharpe:0.4077154087392657
+2024-05-19 17:15:52.139 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:NR  factor_name:ts_mome params:60 sharpe: -0.553027844399008
+2024-05-19 17:15:52.229 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:NR  factor_name:ts_rule_mome params:(60, 240) sharpe: -0.3702098609755227
+2024-05-19 17:15:52.315 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:NR  factor_name:open_interest params:240 sharpe: -0.02468276020719768
+2024-05-19 17:15:52.751 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:NR  TermStructure  Sharpe:0.1842269697209586
+2024-05-19 17:15:52.848 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:OI  factor_name:ts_mome params:20 sharpe: 0.23217332130863008
+2024-05-19 17:15:52.940 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:OI  factor_name:ts_rule_mome params:(20, 60) sharpe: -0.5107911109221362
+2024-05-19 17:15:53.035 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:OI  factor_name:open_interest params:1 sharpe: 0.7007057627924245
+2024-05-19 17:15:53.144 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:OI  TermStructure  Sharpe:0.23387861458378006
+2024-05-19 17:15:53.246 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:P  factor_name:ts_mome params:60 sharpe: -0.46101591030499295
+2024-05-19 17:15:53.343 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:P  factor_name:ts_rule_mome params:(5, 20) sharpe: 0.16870893975442597
+2024-05-19 17:15:53.435 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:P  factor_name:open_interest params:240 sharpe: -0.4584946475386154
+2024-05-19 17:15:53.545 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:P  TermStructure  Sharpe:0.10945216119375864
+2024-05-19 17:15:53.648 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:PB  factor_name:ts_mome params:240 sharpe: 1.7038721530287817
+2024-05-19 17:15:53.751 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:PB  factor_name:ts_rule_mome params:(60, 240) sharpe: 0.8241016841798069
+2024-05-19 17:15:53.883 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:PB  factor_name:open_interest params:1 sharpe: -1.6112271710473092
+2024-05-19 17:15:54.065 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:PB  TermStructure  Sharpe:0.5158173199277271
+2024-05-19 17:15:54.185 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:PF  factor_name:ts_mome params:20 sharpe: -0.3001926698049938
+2024-05-19 17:15:54.286 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:PF  factor_name:ts_rule_mome params:(5, 20) sharpe: -1.082968016189573
+2024-05-19 17:15:54.390 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:PF  factor_name:open_interest params:240 sharpe: 0.9879984682618814
+2024-05-19 17:15:54.502 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:PF  TermStructure  Sharpe:-0.12734980816597452
+2024-05-19 17:15:54.598 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:PG  factor_name:ts_mome params:20 sharpe: 0.768831398930319
+2024-05-19 17:15:54.689 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:PG  factor_name:ts_rule_mome params:(60, 240) sharpe: -1.8616867060653366
+2024-05-19 17:15:54.778 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:PG  factor_name:open_interest params:20 sharpe: -0.44816311859756136
+2024-05-19 17:15:54.879 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:PG  TermStructure  Sharpe:-0.3345724232884521
+2024-05-19 17:15:54.977 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:PK  factor_name:ts_mome params:20 sharpe: -0.1516061599432952
+2024-05-19 17:15:55.080 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:PK  factor_name:ts_rule_mome params:(5, 20) sharpe: -0.09512808809279948
+2024-05-19 17:15:55.185 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:PK  factor_name:open_interest params:240 sharpe: -0.8602615076182558
+2024-05-19 17:15:55.299 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:PK  TermStructure  Sharpe:0.35584658450992945
+2024-05-19 17:15:55.406 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:PM  factor_name:ts_mome params:240 sharpe: -inf
+2024-05-19 17:15:55.497 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:PM  factor_name:ts_rule_mome params:(20, 60) sharpe: -inf
+2024-05-19 17:15:55.587 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:PM  factor_name:open_interest params:1 sharpe: nan
+2024-05-19 17:15:55.685 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:PM  TermStructure  Sharpe:0.16264356462069088
+2024-05-19 17:15:55.778 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:PP  factor_name:ts_mome params:60 sharpe: -0.5289623505287496
+2024-05-19 17:15:55.869 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:PP  factor_name:ts_rule_mome params:(5, 20) sharpe: 0.3368994825890882
+2024-05-19 17:15:55.962 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:PP  factor_name:open_interest params:20 sharpe: -1.6329233825442964
+2024-05-19 17:15:56.069 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:PP  TermStructure  Sharpe:0.2395527863113824
+2024-05-19 17:15:56.164 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:RB  factor_name:ts_mome params:240 sharpe: 1.3606662381737975
+2024-05-19 17:15:56.257 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:RB  factor_name:ts_rule_mome params:(5, 20) sharpe: -0.36744033004156545
+2024-05-19 17:15:56.355 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:RB  factor_name:open_interest params:60 sharpe: -0.2772261629583705
+2024-05-19 17:15:56.467 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:RB  TermStructure  Sharpe:0.4038685263875156
+2024-05-19 17:15:56.568 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:RI  factor_name:ts_mome params:180 sharpe: nan
+2024-05-19 17:15:56.656 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:RI  factor_name:ts_rule_mome params:(5, 20) sharpe: -inf
+2024-05-19 17:15:56.746 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:RI  factor_name:open_interest params:180 sharpe: nan
+2024-05-19 17:15:56.848 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:RI  TermStructure  Sharpe:0.10425086528139853
+2024-05-19 17:15:56.957 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:RM  factor_name:ts_mome params:180 sharpe: -0.03845929778146712
+2024-05-19 17:15:57.047 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:RM  factor_name:ts_rule_mome params:(20, 60) sharpe: 1.4472104082872717
+2024-05-19 17:15:57.150 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:RM  factor_name:open_interest params:60 sharpe: 0.3322171178519031
+2024-05-19 17:15:57.270 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:RM  TermStructure  Sharpe:-0.262929738385657
+2024-05-19 17:15:57.367 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:RR  factor_name:ts_mome params:240 sharpe: -0.6693880890364532
+2024-05-19 17:15:57.456 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:RR  factor_name:ts_rule_mome params:(60, 240) sharpe: -0.49584573473737437
+2024-05-19 17:15:57.547 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:RR  factor_name:open_interest params:60 sharpe: -0.5054817255724117
+2024-05-19 17:15:57.644 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:RR  TermStructure  Sharpe:0.7046939500036903
+2024-05-19 17:15:57.735 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:RS  factor_name:ts_mome params:240 sharpe: -1.6505308805931878
+2024-05-19 17:15:57.828 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:RS  factor_name:ts_rule_mome params:(60, 240) sharpe: -1.4386303432965815
+2024-05-19 17:15:57.921 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:RS  factor_name:open_interest params:20 sharpe: -1.5641014631077335
+2024-05-19 17:15:58.027 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:RS  TermStructure  Sharpe:-0.04854994839167627
+2024-05-19 17:15:58.134 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:RU  factor_name:ts_mome params:20 sharpe: 0.28667652730405957
+2024-05-19 17:15:58.232 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:RU  factor_name:ts_rule_mome params:(5, 20) sharpe: -1.1932333335521221
+2024-05-19 17:15:58.332 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:RU  factor_name:open_interest params:240 sharpe: -0.48483773462884977
+2024-05-19 17:15:58.453 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:RU  TermStructure  Sharpe:0.15805349736348
+2024-05-19 17:15:58.549 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:SA  factor_name:ts_mome params:20 sharpe: 1.4973269755041292
+2024-05-19 17:15:58.641 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:SA  factor_name:ts_rule_mome params:(5, 20) sharpe: 1.668892584988839
+2024-05-19 17:15:58.733 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:SA  factor_name:open_interest params:240 sharpe: 0.7214276970800391
+2024-05-19 17:15:58.830 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:SA  TermStructure  Sharpe:-0.4126344254747315
+2024-05-19 17:15:58.928 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:SC  factor_name:ts_mome params:180 sharpe: -0.6592792674052904
+2024-05-19 17:15:59.017 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:SC  factor_name:ts_rule_mome params:(5, 20) sharpe: 1.2414961448689779
+2024-05-19 17:15:59.107 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:SC  factor_name:open_interest params:60 sharpe: -0.22007214850066
+2024-05-19 17:15:59.214 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:SC  TermStructure  Sharpe:-0.2936350756290866
+2024-05-19 17:15:59.316 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:SF  factor_name:ts_mome params:20 sharpe: -1.4744813406762325
+2024-05-19 17:15:59.405 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:SF  factor_name:ts_rule_mome params:(5, 20) sharpe: -0.8705331202858527
+2024-05-19 17:15:59.501 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:SF  factor_name:open_interest params:180 sharpe: -1.0308484123456343
+2024-05-19 17:15:59.605 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:SF  TermStructure  Sharpe:-0.07706774131063536
+2024-05-19 17:15:59.703 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:SI  factor_name:ts_mome params:60 sharpe: 1.4494155714730728
+2024-05-19 17:15:59.793 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:SI  factor_name:ts_rule_mome params:(20, 60) sharpe: 1.550705334349166
+2024-05-19 17:15:59.885 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:SI  factor_name:open_interest params:1 sharpe: -1.053643736407629
+2024-05-19 17:15:59.979 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:SI  TermStructure  Sharpe:-0.4046585334716142
+2024-05-19 17:16:00.076 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:SM  factor_name:ts_mome params:180 sharpe: 0.2079468144062618
+2024-05-19 17:16:00.168 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:SM  factor_name:ts_rule_mome params:(60, 240) sharpe: -1.4253994307661682
+2024-05-19 17:16:00.257 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:SM  factor_name:open_interest params:240 sharpe: 2.155117729291151
+2024-05-19 17:16:00.357 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:SM  TermStructure  Sharpe:0.4396628706401474
+2024-05-19 17:16:00.455 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:SN  factor_name:ts_mome params:20 sharpe: 0.6544693927765564
+2024-05-19 17:16:00.550 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:SN  factor_name:ts_rule_mome params:(20, 60) sharpe: 1.079018073873935
+2024-05-19 17:16:00.641 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:SN  factor_name:open_interest params:240 sharpe: -1.9905970960722164
+2024-05-19 17:16:00.743 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:SN  TermStructure  Sharpe:0.3665926587124687
+2024-05-19 17:16:00.839 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:SP  factor_name:ts_mome params:240 sharpe: -0.42413265341103484
+2024-05-19 17:16:00.930 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:SP  factor_name:ts_rule_mome params:(5, 20) sharpe: 0.20062316401868174
+2024-05-19 17:16:01.029 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:SP  factor_name:open_interest params:240 sharpe: 0.4278859265408121
+2024-05-19 17:16:01.132 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:SP  TermStructure  Sharpe:0.09774174339119811
+2024-05-19 17:16:01.230 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:SR  factor_name:ts_mome params:20 sharpe: -1.1795792415131316
+2024-05-19 17:16:01.338 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:SR  factor_name:ts_rule_mome params:(60, 240) sharpe: 0.015790489073957335
+2024-05-19 17:16:01.433 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:SR  factor_name:open_interest params:180 sharpe: 0.22747486995559266
+2024-05-19 17:16:01.548 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:SR  TermStructure  Sharpe:-0.07829465507959493
+2024-05-19 17:16:01.645 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:SS  factor_name:ts_mome params:20 sharpe: -0.19488411312285325
+2024-05-19 17:16:01.733 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:SS  factor_name:ts_rule_mome params:(20, 60) sharpe: -1.291317422925673
+2024-05-19 17:16:01.825 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:SS  factor_name:open_interest params:1 sharpe: -0.26707774719289107
+2024-05-19 17:16:01.921 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:SS  TermStructure  Sharpe:-0.4462523403298443
+2024-05-19 17:16:02.421 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:T  factor_name:ts_mome params:60 sharpe: 1.010217427043146
+2024-05-19 17:16:02.511 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:T  factor_name:ts_rule_mome params:(20, 60) sharpe: 1.1107632896721376
+2024-05-19 17:16:02.604 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:T  factor_name:open_interest params:180 sharpe: -0.3946451229665623
+2024-05-19 17:16:02.704 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:T  TermStructure  Sharpe:0.7756274776895976
+2024-05-19 17:16:02.805 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:TA  factor_name:ts_mome params:20 sharpe: -0.27872998045617725
+2024-05-19 17:16:02.900 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:TA  factor_name:ts_rule_mome params:(5, 20) sharpe: -0.9524836437566402
+2024-05-19 17:16:03.001 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:TA  factor_name:open_interest params:180 sharpe: 0.2991912531965031
+2024-05-19 17:16:03.114 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:TA  TermStructure  Sharpe:-0.12491329458876255
+2024-05-19 17:16:03.212 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:TF  factor_name:ts_mome params:20 sharpe: -0.6577106875567266
+2024-05-19 17:16:03.304 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:TF  factor_name:ts_rule_mome params:(20, 60) sharpe: 0.8914700860138898
+2024-05-19 17:16:03.399 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:TF  factor_name:open_interest params:20 sharpe: -0.3252406754885109
+2024-05-19 17:16:03.505 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:TF  TermStructure  Sharpe:0.21204983768943722
+2024-05-19 17:16:03.596 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:TS  factor_name:ts_mome params:180 sharpe: -0.3226686368497174
+2024-05-19 17:16:03.687 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:TS  factor_name:ts_rule_mome params:(5, 20) sharpe: 0.07971515679265118
+2024-05-19 17:16:03.780 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:TS  factor_name:open_interest params:180 sharpe: -1.5220530454450514
+2024-05-19 17:16:03.880 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:TS  TermStructure  Sharpe:0.9164856386538082
+2024-05-19 17:16:03.970 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:UR  factor_name:ts_mome params:240 sharpe: 1.232386681866705
+2024-05-19 17:16:04.057 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:UR  factor_name:ts_rule_mome params:(5, 20) sharpe: 0.49438044285654137
+2024-05-19 17:16:04.148 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:UR  factor_name:open_interest params:240 sharpe: 0.9737200495513235
+2024-05-19 17:16:04.244 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:UR  TermStructure  Sharpe:-0.702514661801671
+2024-05-19 17:16:04.338 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:V  factor_name:ts_mome params:180 sharpe: 0.11661864594162887
+2024-05-19 17:16:04.435 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:V  factor_name:ts_rule_mome params:(20, 60) sharpe: -0.18665573243619388
+2024-05-19 17:16:04.528 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:V  factor_name:open_interest params:60 sharpe: 0.9323580011497339
+2024-05-19 17:16:04.636 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:V  TermStructure  Sharpe:0.04461929926699456
+2024-05-19 17:16:04.738 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:WH  factor_name:ts_mome params:20 sharpe: nan
+2024-05-19 17:16:04.829 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:WH  factor_name:ts_rule_mome params:(5, 20) sharpe: -inf
+2024-05-19 17:16:04.919 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:WH  factor_name:open_interest params:20 sharpe: nan
+2024-05-19 17:16:05.027 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:WH  TermStructure  Sharpe:0.21374889371205255
+2024-05-19 17:16:05.132 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:WR  factor_name:ts_mome params:240 sharpe: -0.31319325908608403
+2024-05-19 17:16:05.227 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:WR  factor_name:ts_rule_mome params:(20, 60) sharpe: -0.7451193704245889
+2024-05-19 17:16:05.326 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:WR  factor_name:open_interest params:60 sharpe: -0.6215846056397438
+2024-05-19 17:16:05.438 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:WR  TermStructure  Sharpe:-0.14877698822957508
+2024-05-19 17:16:05.535 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:Y  factor_name:ts_mome params:20 sharpe: 0.868451928802724
+2024-05-19 17:16:05.632 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:Y  factor_name:ts_rule_mome params:(5, 20) sharpe: 0.6441714609766727
+2024-05-19 17:16:05.728 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:Y  factor_name:open_interest params:240 sharpe: 0.8798206341837592
+2024-05-19 17:16:05.836 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:Y  TermStructure  Sharpe:0.12718854506460892
+2024-05-19 17:16:05.939 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:ZC  factor_name:ts_mome params:240 sharpe: -inf
+2024-05-19 17:16:06.029 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:ZC  factor_name:ts_rule_mome params:(60, 240) sharpe: -inf
+2024-05-19 17:16:06.116 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:ZC  factor_name:open_interest params:240 sharpe: -inf
+2024-05-19 17:16:06.216 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:ZC  TermStructure  Sharpe:0.40719988334164325
+2024-05-19 17:16:06.310 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:ZN  factor_name:ts_mome params:60 sharpe: -0.06877822486308487
+2024-05-19 17:16:06.409 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:ZN  factor_name:ts_rule_mome params:(20, 60) sharpe: 0.2907592851605423
+2024-05-19 17:16:06.506 | INFO     | __main__:fun_single_factors_OS:110 - Single_Factor_OutOfSample ———— code:ZN  factor_name:open_interest params:180 sharpe: -1.1187609214623029
+2024-05-19 17:16:06.621 | INFO     | __main__:fun_single_factors_OS:119 - All ———— code:ZN  TermStructure  Sharpe:-0.23915843930437522

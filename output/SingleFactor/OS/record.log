@@ -1,0 +1,288 @@
+2024-05-19 17:03:47.352 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:A  factor_name:ts_mome sharpe: -2.1137072473098995
+2024-05-19 17:03:47.651 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:A  factor_name:ts_rule_mome sharpe: -0.3595994807272417
+2024-05-19 17:03:47.756 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:A  factor_name:open_interest sharpe: 1.8349306087313553
+2024-05-19 17:03:47.874 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:A  TermStructure  Sharpe:-0.1854543084056285
+2024-05-19 17:03:47.978 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:AG  factor_name:ts_mome sharpe: -0.6693768331006765
+2024-05-19 17:03:48.075 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:AG  factor_name:ts_rule_mome sharpe: -0.48046663854831173
+2024-05-19 17:03:48.173 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:AG  factor_name:open_interest sharpe: -0.03203232930523998
+2024-05-19 17:03:48.283 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:AG  TermStructure  Sharpe:0.4338226209368794
+2024-05-19 17:03:48.391 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:AL  factor_name:ts_mome sharpe: 0.018055844067830167
+2024-05-19 17:03:48.493 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:AL  factor_name:ts_rule_mome sharpe: 0.42917995619468335
+2024-05-19 17:03:48.599 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:AL  factor_name:open_interest sharpe: 0.40205525824534705
+2024-05-19 17:03:48.722 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:AL  TermStructure  Sharpe:-0.09935602846274445
+2024-05-19 17:03:48.822 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:AP  factor_name:ts_mome sharpe: -2.802714382665702
+2024-05-19 17:03:48.912 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:AP  factor_name:ts_rule_mome sharpe: -0.8790835039724119
+2024-05-19 17:03:49.003 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:AP  factor_name:open_interest sharpe: 0.4296078150199583
+2024-05-19 17:03:49.137 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:AP  TermStructure  Sharpe:-0.6372099252210267
+2024-05-19 17:03:49.235 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:AU  factor_name:ts_mome sharpe: 1.925184495102149
+2024-05-19 17:03:49.333 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:AU  factor_name:ts_rule_mome sharpe: 1.925184495102149
+2024-05-19 17:03:49.430 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:AU  factor_name:open_interest sharpe: 0.7830969977585448
+2024-05-19 17:03:49.536 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:AU  TermStructure  Sharpe:-0.2613999850430774
+2024-05-19 17:03:49.639 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:B  factor_name:ts_mome sharpe: -0.9826922907555794
+2024-05-19 17:03:49.733 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:B  factor_name:ts_rule_mome sharpe: 2.229617551734045
+2024-05-19 17:03:49.828 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:B  factor_name:open_interest sharpe: 1.4483264872142592
+2024-05-19 17:03:49.938 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:B  TermStructure  Sharpe:0.3031370540076682
+2024-05-19 17:03:50.029 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:BB  factor_name:ts_mome sharpe: nan
+2024-05-19 17:03:50.119 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:BB  factor_name:ts_rule_mome sharpe: -inf
+2024-05-19 17:03:50.206 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:BB  factor_name:open_interest sharpe: nan
+2024-05-19 17:03:50.305 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:BB  TermStructure  Sharpe:0.8146296979190173
+2024-05-19 17:03:50.396 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:BC  factor_name:ts_mome sharpe: 0.46281389695656056
+2024-05-19 17:03:50.488 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:BC  factor_name:ts_rule_mome sharpe: 0.999678668241722
+2024-05-19 17:03:50.578 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:BC  factor_name:open_interest sharpe: -0.3902818018666404
+2024-05-19 17:03:50.673 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:BC  TermStructure  Sharpe:0.7064391868105725
+2024-05-19 17:03:50.773 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:BU  factor_name:ts_mome sharpe: -0.09634755350840055
+2024-05-19 17:03:50.868 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:BU  factor_name:ts_rule_mome sharpe: -2.1451974297823737
+2024-05-19 17:03:51.011 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:BU  factor_name:open_interest sharpe: -0.17203031483310977
+2024-05-19 17:03:51.114 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:BU  TermStructure  Sharpe:-0.27667249008786504
+2024-05-19 17:03:51.210 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:C  factor_name:ts_mome sharpe: -0.4070310528852588
+2024-05-19 17:03:51.309 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:C  factor_name:ts_rule_mome sharpe: 0.08737677723065879
+2024-05-19 17:03:51.407 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:C  factor_name:open_interest sharpe: 0.8948438941105427
+2024-05-19 17:03:51.515 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:C  TermStructure  Sharpe:0.053300054641645035
+2024-05-19 17:03:51.619 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:CF  factor_name:ts_mome sharpe: 0.758563798047537
+2024-05-19 17:03:51.717 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:CF  factor_name:ts_rule_mome sharpe: -0.7627117717542811
+2024-05-19 17:03:51.818 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:CF  factor_name:open_interest sharpe: -0.32539483987201184
+2024-05-19 17:03:51.929 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:CF  TermStructure  Sharpe:0.06557242914934047
+2024-05-19 17:03:52.024 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:CJ  factor_name:ts_mome sharpe: -1.082007153978032
+2024-05-19 17:03:52.115 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:CJ  factor_name:ts_rule_mome sharpe: 0.14393172246216301
+2024-05-19 17:03:52.206 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:CJ  factor_name:open_interest sharpe: 2.1854694758103586
+2024-05-19 17:03:52.303 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:CJ  TermStructure  Sharpe:0.5375957654634296
+2024-05-19 17:03:52.401 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:CS  factor_name:ts_mome sharpe: -1.0904842446265954
+2024-05-19 17:03:52.509 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:CS  factor_name:ts_rule_mome sharpe: -2.5172952253520124
+2024-05-19 17:03:52.614 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:CS  factor_name:open_interest sharpe: -0.1209379546252281
+2024-05-19 17:03:52.719 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:CS  TermStructure  Sharpe:0.16823754780519445
+2024-05-19 17:03:52.898 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:CU  factor_name:ts_mome sharpe: 1.0613950591632288
+2024-05-19 17:03:53.006 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:CU  factor_name:ts_rule_mome sharpe: 1.005926159057654
+2024-05-19 17:03:53.114 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:CU  factor_name:open_interest sharpe: 1.0323352015352034
+2024-05-19 17:03:53.240 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:CU  TermStructure  Sharpe:0.1272052825098224
+2024-05-19 17:03:53.349 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:CY  factor_name:ts_mome sharpe: -0.9325120662706388
+2024-05-19 17:03:53.447 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:CY  factor_name:ts_rule_mome sharpe: -0.698481319648872
+2024-05-19 17:03:53.546 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:CY  factor_name:open_interest sharpe: 0.7584281893441494
+2024-05-19 17:03:53.648 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:CY  TermStructure  Sharpe:-0.7986032636073797
+2024-05-19 17:03:53.747 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:EB  factor_name:ts_mome sharpe: 0.31025695785349755
+2024-05-19 17:03:53.853 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:EB  factor_name:ts_rule_mome sharpe: 1.0246213371440545
+2024-05-19 17:03:53.947 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:EB  factor_name:open_interest sharpe: 1.7634953095064907
+2024-05-19 17:03:54.051 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:EB  TermStructure  Sharpe:-0.06225694064972889
+2024-05-19 17:03:54.145 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:EG  factor_name:ts_mome sharpe: -1.6794918360294935
+2024-05-19 17:03:54.241 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:EG  factor_name:ts_rule_mome sharpe: 0.731514152162121
+2024-05-19 17:03:54.347 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:EG  factor_name:open_interest sharpe: -0.2656620384944669
+2024-05-19 17:03:54.455 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:EG  TermStructure  Sharpe:-0.07237430045682515
+2024-05-19 17:03:54.561 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:FB  factor_name:ts_mome sharpe: 2.3613547552077083
+2024-05-19 17:03:54.668 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:FB  factor_name:ts_rule_mome sharpe: 0.4424080968322254
+2024-05-19 17:03:54.773 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:FB  factor_name:open_interest sharpe: 0.0592353655386089
+2024-05-19 17:03:54.888 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:FB  TermStructure  Sharpe:1.1068688188185605
+2024-05-19 17:03:55.006 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:FG  factor_name:ts_mome sharpe: -0.16881063335548666
+2024-05-19 17:03:55.116 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:FG  factor_name:ts_rule_mome sharpe: 0.49561858652510515
+2024-05-19 17:03:55.224 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:FG  factor_name:open_interest sharpe: 0.2558702226547263
+2024-05-19 17:03:55.425 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:FG  TermStructure  Sharpe:0.3990570730877562
+2024-05-19 17:03:55.540 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:FU  factor_name:ts_mome sharpe: 0.7537768066113641
+2024-05-19 17:03:55.640 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:FU  factor_name:ts_rule_mome sharpe: 1.081639752954968
+2024-05-19 17:03:55.742 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:FU  factor_name:open_interest sharpe: -1.4086742608943565
+2024-05-19 17:03:55.860 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:FU  TermStructure  Sharpe:0.17276859162383945
+2024-05-19 17:03:55.961 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:HC  factor_name:ts_mome sharpe: -0.7700738173716553
+2024-05-19 17:03:56.057 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:HC  factor_name:ts_rule_mome sharpe: -1.207310047748757
+2024-05-19 17:03:56.154 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:HC  factor_name:open_interest sharpe: 0.770008790582259
+2024-05-19 17:03:56.258 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:HC  TermStructure  Sharpe:0.5884632306196423
+2024-05-19 17:03:56.363 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:I  factor_name:ts_mome sharpe: 0.9407142418966871
+2024-05-19 17:03:56.468 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:I  factor_name:ts_rule_mome sharpe: 0.4025375520341618
+2024-05-19 17:03:56.607 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:I  factor_name:open_interest sharpe: -0.547708386987544
+2024-05-19 17:03:56.771 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:I  TermStructure  Sharpe:0.4756012275057216
+2024-05-19 17:03:56.920 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:IC  factor_name:ts_mome sharpe: 0.19107183780850917
+2024-05-19 17:03:57.043 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:IC  factor_name:ts_rule_mome sharpe: 0.13667862667278877
+2024-05-19 17:03:57.152 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:IC  factor_name:open_interest sharpe: 0.4021551445788112
+2024-05-19 17:03:57.273 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:IC  TermStructure  Sharpe:0.3367427990011787
+2024-05-19 17:03:57.394 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:IF  factor_name:ts_mome sharpe: 0.5156085873026831
+2024-05-19 17:03:57.532 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:IF  factor_name:ts_rule_mome sharpe: -1.5947903683580786
+2024-05-19 17:03:57.688 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:IF  factor_name:open_interest sharpe: 0.41968878117028224
+2024-05-19 17:03:57.836 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:IF  TermStructure  Sharpe:0.2818829156857548
+2024-05-19 17:03:57.985 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:IH  factor_name:ts_mome sharpe: 0.20769436169605549
+2024-05-19 17:03:58.097 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:IH  factor_name:ts_rule_mome sharpe: 0.4467455301350522
+2024-05-19 17:03:58.204 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:IH  factor_name:open_interest sharpe: -0.6734827512985858
+2024-05-19 17:03:58.313 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:IH  TermStructure  Sharpe:0.39481442691782925
+2024-05-19 17:03:58.409 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:IM  factor_name:ts_mome sharpe: 0.011208157592746707
+2024-05-19 17:03:58.501 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:IM  factor_name:ts_rule_mome sharpe: 0.4821761752864529
+2024-05-19 17:03:58.591 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:IM  factor_name:open_interest sharpe: 0.9806159473996626
+2024-05-19 17:03:58.805 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:IM  TermStructure  Sharpe:-0.10016293615057037
+2024-05-19 17:03:58.902 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:J  factor_name:ts_mome sharpe: -0.16598017269564755
+2024-05-19 17:03:59.008 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:J  factor_name:ts_rule_mome sharpe: -0.49219394830018554
+2024-05-19 17:03:59.116 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:J  factor_name:open_interest sharpe: 1.750378830171051
+2024-05-19 17:03:59.227 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:J  TermStructure  Sharpe:-0.04755968494998768
+2024-05-19 17:03:59.334 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:JD  factor_name:ts_mome sharpe: 0.1553789328549742
+2024-05-19 17:03:59.434 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:JD  factor_name:ts_rule_mome sharpe: -0.5145258601506573
+2024-05-19 17:03:59.534 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:JD  factor_name:open_interest sharpe: 1.1558114126896117
+2024-05-19 17:03:59.643 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:JD  TermStructure  Sharpe:0.4619371959304578
+2024-05-19 17:03:59.741 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:JM  factor_name:ts_mome sharpe: -0.48910188352856315
+2024-05-19 17:03:59.852 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:JM  factor_name:ts_rule_mome sharpe: 0.6553850981896786
+2024-05-19 17:03:59.955 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:JM  factor_name:open_interest sharpe: 0.8808978002326541
+2024-05-19 17:04:00.069 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:JM  TermStructure  Sharpe:0.5212831376270154
+2024-05-19 17:04:00.167 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:JR  factor_name:ts_mome sharpe: -inf
+2024-05-19 17:04:00.262 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:JR  factor_name:ts_rule_mome sharpe: -inf
+2024-05-19 17:04:00.357 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:JR  factor_name:open_interest sharpe: nan
+2024-05-19 17:04:00.456 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:JR  TermStructure  Sharpe:-0.024407242088872596
+2024-05-19 17:04:00.560 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:L  factor_name:ts_mome sharpe: -1.438886915586541
+2024-05-19 17:04:00.661 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:L  factor_name:ts_rule_mome sharpe: -0.6780446901991132
+2024-05-19 17:04:00.775 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:L  factor_name:open_interest sharpe: -0.621056279578298
+2024-05-19 17:04:00.899 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:L  TermStructure  Sharpe:0.5167554935345625
+2024-05-19 17:04:01.011 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:LH  factor_name:ts_mome sharpe: 1.0890883008607684
+2024-05-19 17:04:01.116 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:LH  factor_name:ts_rule_mome sharpe: 1.1334409725040433
+2024-05-19 17:04:01.216 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:LH  factor_name:open_interest sharpe: 0.8929610879457325
+2024-05-19 17:04:01.316 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:LH  TermStructure  Sharpe:0.22833587336690989
+2024-05-19 17:04:01.428 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:LR  factor_name:ts_mome sharpe: nan
+2024-05-19 17:04:01.520 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:LR  factor_name:ts_rule_mome sharpe: -inf
+2024-05-19 17:04:01.609 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:LR  factor_name:open_interest sharpe: nan
+2024-05-19 17:04:01.711 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:LR  TermStructure  Sharpe:-0.32266728510502674
+2024-05-19 17:04:01.811 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:LU  factor_name:ts_mome sharpe: 0.06856137512174133
+2024-05-19 17:04:01.904 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:LU  factor_name:ts_rule_mome sharpe: -0.36710367155226736
+2024-05-19 17:04:02.006 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:LU  factor_name:open_interest sharpe: 0.5545097725503624
+2024-05-19 17:04:02.108 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:LU  TermStructure  Sharpe:-0.9116136559973006
+2024-05-19 17:04:02.216 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:M  factor_name:ts_mome sharpe: 1.2864180299828352
+2024-05-19 17:04:02.317 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:M  factor_name:ts_rule_mome sharpe: 2.6789867919236072
+2024-05-19 17:04:02.553 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:M  factor_name:open_interest sharpe: 0.5551206843311569
+2024-05-19 17:04:02.665 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:M  TermStructure  Sharpe:0.3127664582446025
+2024-05-19 17:04:02.769 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:MA  factor_name:ts_mome sharpe: 0.7859991799988878
+2024-05-19 17:04:02.880 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:MA  factor_name:ts_rule_mome sharpe: 0.3508235212437205
+2024-05-19 17:04:02.994 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:MA  factor_name:open_interest sharpe: -0.11696893636251637
+2024-05-19 17:04:03.114 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:MA  TermStructure  Sharpe:0.08932923941103287
+2024-05-19 17:04:03.224 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:NI  factor_name:ts_mome sharpe: -0.20588487646614756
+2024-05-19 17:04:03.332 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:NI  factor_name:ts_rule_mome sharpe: -0.5142496980377772
+2024-05-19 17:04:03.426 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:NI  factor_name:open_interest sharpe: 1.3706580215292046
+2024-05-19 17:04:03.536 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:NI  TermStructure  Sharpe:0.4077154087392657
+2024-05-19 17:04:03.637 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:NR  factor_name:ts_mome sharpe: -0.553027844399008
+2024-05-19 17:04:03.733 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:NR  factor_name:ts_rule_mome sharpe: -0.3702098609755227
+2024-05-19 17:04:03.828 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:NR  factor_name:open_interest sharpe: -0.02468276020719768
+2024-05-19 17:04:03.934 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:NR  TermStructure  Sharpe:0.1842269697209586
+2024-05-19 17:04:04.035 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:OI  factor_name:ts_mome sharpe: 0.23217332130863008
+2024-05-19 17:04:04.139 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:OI  factor_name:ts_rule_mome sharpe: -0.5107911109221362
+2024-05-19 17:04:04.252 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:OI  factor_name:open_interest sharpe: 0.7007057627924245
+2024-05-19 17:04:04.365 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:OI  TermStructure  Sharpe:0.23387861458378006
+2024-05-19 17:04:04.473 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:P  factor_name:ts_mome sharpe: -0.46101591030499295
+2024-05-19 17:04:04.573 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:P  factor_name:ts_rule_mome sharpe: 0.16870893975442597
+2024-05-19 17:04:04.671 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:P  factor_name:open_interest sharpe: -0.4584946475386154
+2024-05-19 17:04:04.787 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:P  TermStructure  Sharpe:0.10945216119375864
+2024-05-19 17:04:04.911 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:PB  factor_name:ts_mome sharpe: 1.7038721530287817
+2024-05-19 17:04:05.034 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:PB  factor_name:ts_rule_mome sharpe: 0.8241016841798069
+2024-05-19 17:04:05.162 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:PB  factor_name:open_interest sharpe: -1.6112271710473092
+2024-05-19 17:04:05.314 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:PB  TermStructure  Sharpe:0.5158173199277271
+2024-05-19 17:04:05.426 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:PF  factor_name:ts_mome sharpe: -0.3001926698049938
+2024-05-19 17:04:05.534 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:PF  factor_name:ts_rule_mome sharpe: -1.082968016189573
+2024-05-19 17:04:05.642 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:PF  factor_name:open_interest sharpe: 0.9879984682618814
+2024-05-19 17:04:05.758 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:PF  TermStructure  Sharpe:-0.12734980816597452
+2024-05-19 17:04:05.873 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:PG  factor_name:ts_mome sharpe: 0.768831398930319
+2024-05-19 17:04:05.981 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:PG  factor_name:ts_rule_mome sharpe: -1.8616867060653366
+2024-05-19 17:04:06.086 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:PG  factor_name:open_interest sharpe: -0.44816311859756136
+2024-05-19 17:04:06.201 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:PG  TermStructure  Sharpe:-0.3345724232884521
+2024-05-19 17:04:06.317 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:PK  factor_name:ts_mome sharpe: -0.1516061599432952
+2024-05-19 17:04:06.427 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:PK  factor_name:ts_rule_mome sharpe: -0.09512808809279948
+2024-05-19 17:04:06.536 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:PK  factor_name:open_interest sharpe: -0.8602615076182558
+2024-05-19 17:04:06.653 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:PK  TermStructure  Sharpe:0.35584658450992945
+2024-05-19 17:04:06.802 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:PM  factor_name:ts_mome sharpe: -inf
+2024-05-19 17:04:06.912 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:PM  factor_name:ts_rule_mome sharpe: -inf
+2024-05-19 17:04:07.024 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:PM  factor_name:open_interest sharpe: nan
+2024-05-19 17:04:07.316 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:PM  TermStructure  Sharpe:0.16264356462069088
+2024-05-19 17:04:07.413 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:PP  factor_name:ts_mome sharpe: -0.5289623505287496
+2024-05-19 17:04:07.506 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:PP  factor_name:ts_rule_mome sharpe: 0.3368994825890882
+2024-05-19 17:04:07.603 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:PP  factor_name:open_interest sharpe: -1.6329233825442964
+2024-05-19 17:04:07.710 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:PP  TermStructure  Sharpe:0.2395527863113824
+2024-05-19 17:04:07.807 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:RB  factor_name:ts_mome sharpe: 1.3606662381737975
+2024-05-19 17:04:07.903 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:RB  factor_name:ts_rule_mome sharpe: -0.36744033004156545
+2024-05-19 17:04:08.003 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:RB  factor_name:open_interest sharpe: -0.2772261629583705
+2024-05-19 17:04:08.114 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:RB  TermStructure  Sharpe:0.4038685263875156
+2024-05-19 17:04:08.213 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:RI  factor_name:ts_mome sharpe: nan
+2024-05-19 17:04:08.304 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:RI  factor_name:ts_rule_mome sharpe: -inf
+2024-05-19 17:04:08.392 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:RI  factor_name:open_interest sharpe: nan
+2024-05-19 17:04:08.493 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:RI  TermStructure  Sharpe:0.10425086528139853
+2024-05-19 17:04:08.592 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:RM  factor_name:ts_mome sharpe: -0.03845929778146712
+2024-05-19 17:04:08.686 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:RM  factor_name:ts_rule_mome sharpe: 1.4472104082872717
+2024-05-19 17:04:08.782 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:RM  factor_name:open_interest sharpe: 0.3322171178519031
+2024-05-19 17:04:08.885 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:RM  TermStructure  Sharpe:-0.262929738385657
+2024-05-19 17:04:08.982 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:RR  factor_name:ts_mome sharpe: -0.6693880890364532
+2024-05-19 17:04:09.075 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:RR  factor_name:ts_rule_mome sharpe: -0.49584573473737437
+2024-05-19 17:04:09.167 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:RR  factor_name:open_interest sharpe: -0.5054817255724117
+2024-05-19 17:04:09.264 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:RR  TermStructure  Sharpe:0.7046939500036903
+2024-05-19 17:04:09.367 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:RS  factor_name:ts_mome sharpe: -1.6505308805931878
+2024-05-19 17:04:09.469 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:RS  factor_name:ts_rule_mome sharpe: -1.4386303432965815
+2024-05-19 17:04:09.566 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:RS  factor_name:open_interest sharpe: -1.5641014631077335
+2024-05-19 17:04:09.676 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:RS  TermStructure  Sharpe:-0.04854994839167627
+2024-05-19 17:04:09.790 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:RU  factor_name:ts_mome sharpe: 0.28667652730405957
+2024-05-19 17:04:09.907 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:RU  factor_name:ts_rule_mome sharpe: -1.1932333335521221
+2024-05-19 17:04:10.029 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:RU  factor_name:open_interest sharpe: -0.48483773462884977
+2024-05-19 17:04:10.165 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:RU  TermStructure  Sharpe:0.15805349736348
+2024-05-19 17:04:10.267 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:SA  factor_name:ts_mome sharpe: 1.4973269755041292
+2024-05-19 17:04:10.367 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:SA  factor_name:ts_rule_mome sharpe: 1.668892584988839
+2024-05-19 17:04:10.468 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:SA  factor_name:open_interest sharpe: 0.7214276970800391
+2024-05-19 17:04:10.575 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:SA  TermStructure  Sharpe:-0.4126344254747315
+2024-05-19 17:04:10.693 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:SC  factor_name:ts_mome sharpe: -0.6592792674052904
+2024-05-19 17:04:10.798 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:SC  factor_name:ts_rule_mome sharpe: 1.2414961448689779
+2024-05-19 17:04:10.899 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:SC  factor_name:open_interest sharpe: -0.22007214850066
+2024-05-19 17:04:11.014 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:SC  TermStructure  Sharpe:-0.2936350756290866
+2024-05-19 17:04:11.129 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:SF  factor_name:ts_mome sharpe: -1.4744813406762325
+2024-05-19 17:04:11.235 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:SF  factor_name:ts_rule_mome sharpe: -0.8705331202858527
+2024-05-19 17:04:11.371 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:SF  factor_name:open_interest sharpe: -1.0308484123456343
+2024-05-19 17:04:11.544 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:SF  TermStructure  Sharpe:-0.07706774131063536
+2024-05-19 17:04:11.690 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:SI  factor_name:ts_mome sharpe: 1.4494155714730728
+2024-05-19 17:04:11.796 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:SI  factor_name:ts_rule_mome sharpe: 1.550705334349166
+2024-05-19 17:04:11.905 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:SI  factor_name:open_interest sharpe: -1.053643736407629
+2024-05-19 17:04:12.016 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:SI  TermStructure  Sharpe:-0.4046585334716142
+2024-05-19 17:04:12.134 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:SM  factor_name:ts_mome sharpe: 0.2079468144062618
+2024-05-19 17:04:12.245 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:SM  factor_name:ts_rule_mome sharpe: -1.4253994307661682
+2024-05-19 17:04:12.354 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:SM  factor_name:open_interest sharpe: 2.155117729291151
+2024-05-19 17:04:12.483 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:SM  TermStructure  Sharpe:0.4396628706401474
+2024-05-19 17:04:12.628 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:SN  factor_name:ts_mome sharpe: 0.6544693927765564
+2024-05-19 17:04:12.782 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:SN  factor_name:ts_rule_mome sharpe: 1.079018073873935
+2024-05-19 17:04:13.166 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:SN  factor_name:open_interest sharpe: -1.9905970960722164
+2024-05-19 17:04:13.289 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:SN  TermStructure  Sharpe:0.3665926587124687
+2024-05-19 17:04:13.417 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:SP  factor_name:ts_mome sharpe: -0.42413265341103484
+2024-05-19 17:04:13.560 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:SP  factor_name:ts_rule_mome sharpe: 0.20062316401868174
+2024-05-19 17:04:13.687 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:SP  factor_name:open_interest sharpe: 0.4278859265408121
+2024-05-19 17:04:13.814 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:SP  TermStructure  Sharpe:0.09774174339119811
+2024-05-19 17:04:13.942 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:SR  factor_name:ts_mome sharpe: -1.1795792415131316
+2024-05-19 17:04:14.067 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:SR  factor_name:ts_rule_mome sharpe: 0.015790489073957335
+2024-05-19 17:04:14.185 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:SR  factor_name:open_interest sharpe: 0.22747486995559266
+2024-05-19 17:04:14.332 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:SR  TermStructure  Sharpe:-0.07829465507959493
+2024-05-19 17:04:14.448 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:SS  factor_name:ts_mome sharpe: -0.19488411312285325
+2024-05-19 17:04:14.555 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:SS  factor_name:ts_rule_mome sharpe: -1.291317422925673
+2024-05-19 17:04:14.664 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:SS  factor_name:open_interest sharpe: -0.26707774719289107
+2024-05-19 17:04:14.786 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:SS  TermStructure  Sharpe:-0.4462523403298443
+2024-05-19 17:04:14.901 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:T  factor_name:ts_mome sharpe: 1.010217427043146
+2024-05-19 17:04:15.008 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:T  factor_name:ts_rule_mome sharpe: 1.1107632896721376
+2024-05-19 17:04:15.146 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:T  factor_name:open_interest sharpe: -0.3946451229665623
+2024-05-19 17:04:15.311 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:T  TermStructure  Sharpe:0.7756274776895976
+2024-05-19 17:04:15.457 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:TA  factor_name:ts_mome sharpe: -0.27872998045617725
+2024-05-19 17:04:15.579 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:TA  factor_name:ts_rule_mome sharpe: -0.9524836437566402
+2024-05-19 17:04:15.707 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:TA  factor_name:open_interest sharpe: 0.2991912531965031
+2024-05-19 17:04:15.836 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:TA  TermStructure  Sharpe:-0.12491329458876255
+2024-05-19 17:04:15.953 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:TF  factor_name:ts_mome sharpe: -0.6577106875567266
+2024-05-19 17:04:16.059 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:TF  factor_name:ts_rule_mome sharpe: 0.8914700860138898
+2024-05-19 17:04:16.173 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:TF  factor_name:open_interest sharpe: -0.3252406754885109
+2024-05-19 17:04:16.298 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:TF  TermStructure  Sharpe:0.21204983768943722
+2024-05-19 17:04:16.406 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:TS  factor_name:ts_mome sharpe: -0.3226686368497174
+2024-05-19 17:04:16.516 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:TS  factor_name:ts_rule_mome sharpe: 0.07971515679265118
+2024-05-19 17:04:16.631 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:TS  factor_name:open_interest sharpe: -1.5220530454450514
+2024-05-19 17:04:16.766 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:TS  TermStructure  Sharpe:0.9164856386538082
+2024-05-19 17:04:16.884 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:UR  factor_name:ts_mome sharpe: 1.232386681866705
+2024-05-19 17:04:17.002 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:UR  factor_name:ts_rule_mome sharpe: 0.49438044285654137
+2024-05-19 17:04:17.114 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:UR  factor_name:open_interest sharpe: 0.9737200495513235
+2024-05-19 17:04:17.225 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:UR  TermStructure  Sharpe:-0.702514661801671
+2024-05-19 17:04:17.352 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:V  factor_name:ts_mome sharpe: 0.11661864594162887
+2024-05-19 17:04:17.505 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:V  factor_name:ts_rule_mome sharpe: -0.18665573243619388
+2024-05-19 17:04:17.635 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:V  factor_name:open_interest sharpe: 0.9323580011497339
+2024-05-19 17:04:17.780 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:V  TermStructure  Sharpe:0.04461929926699456
+2024-05-19 17:04:17.906 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:WH  factor_name:ts_mome sharpe: nan
+2024-05-19 17:04:18.020 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:WH  factor_name:ts_rule_mome sharpe: -inf
+2024-05-19 17:04:18.131 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:WH  factor_name:open_interest sharpe: nan
+2024-05-19 17:04:18.270 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:WH  TermStructure  Sharpe:0.21374889371205255
+2024-05-19 17:04:18.399 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:WR  factor_name:ts_mome sharpe: -0.31319325908608403
+2024-05-19 17:04:18.523 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:WR  factor_name:ts_rule_mome sharpe: -0.7451193704245889
+2024-05-19 17:04:18.643 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:WR  factor_name:open_interest sharpe: -0.6215846056397438
+2024-05-19 17:04:18.783 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:WR  TermStructure  Sharpe:-0.14877698822957508
+2024-05-19 17:04:18.908 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:Y  factor_name:ts_mome sharpe: 0.868451928802724
+2024-05-19 17:04:19.022 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:Y  factor_name:ts_rule_mome sharpe: 0.6441714609766727
+2024-05-19 17:04:19.137 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:Y  factor_name:open_interest sharpe: 0.8798206341837592
+2024-05-19 17:04:19.261 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:Y  TermStructure  Sharpe:0.12718854506460892
+2024-05-19 17:04:19.422 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:ZC  factor_name:ts_mome sharpe: -inf
+2024-05-19 17:04:19.549 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:ZC  factor_name:ts_rule_mome sharpe: -inf
+2024-05-19 17:04:19.652 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:ZC  factor_name:open_interest sharpe: -inf
+2024-05-19 17:04:19.790 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:ZC  TermStructure  Sharpe:0.40719988334164325
+2024-05-19 17:04:19.925 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:ZN  factor_name:ts_mome sharpe: -0.06877822486308487
+2024-05-19 17:04:20.041 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:ZN  factor_name:ts_rule_mome sharpe: 0.2907592851605423
+2024-05-19 17:04:20.153 | INFO     | __main__:fun_single_factors_OS:115 - OutOfSample ———— code:ZN  factor_name:open_interest sharpe: -1.1187609214623029
+2024-05-19 17:04:20.283 | INFO     | __main__:fun_single_factors_OS:124 - All ———— code:ZN  TermStructure  Sharpe:-0.23915843930437522
