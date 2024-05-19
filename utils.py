@@ -1,4 +1,6 @@
+import os
 import numpy as np
+from loguru import logger
 from sklearn.preprocessing import StandardScaler
 from sklearn.linear_model import LogisticRegression
 
@@ -42,13 +44,20 @@ def LassoLogistic(n,df,rolling_period,C,penalty = 'l1',freq = 'weekly'):
 
     df['signal'] = (df['predicted'] - 0.5) * 2
     df['delta_position'] = np.abs(df['signal'] - df['signal'].shift(1))
-    df['cost'] = 0.0001 * df['adj_close'] * df['delta_position']
-    df['pnl'] = df['return'] * df['signal'] - df['cost']
-    
-    if freq == 'weekly':
-        df = df[-52*10:]
-    elif freq == 'daily':
-        df = df[-252*10:]    
+    df['pnl'] = df['return'] * df['signal'] 
+      
     df['cum_pnl'] = df['pnl'].cumsum()
  
     return df
+
+
+def log_output(content, log_type='info', if_multiprocessing=False):
+    if log_type == 'info':
+        if if_multiprocessing:
+            process_id = os.getpid()
+            logger.info(fr'进程{process_id}: ' + content)
+        else:
+            logger.info(content)
+    else:
+        print('Log Type not supported')
+    return
